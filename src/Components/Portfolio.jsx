@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Bank Mobile Application 🏦",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A mobile bank application made with C# and .NET MAUI as part of a school project.",
+    url: "https://github.com/godwin-17/its-project-work-maui",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather App ⛅",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Weather App built with HTML, CSS and JavaScript by following The Odin Project JavaScript Path.",
+    url: "https://github.com/godwin-17/odin-weather-app",
   },
   {
-    title: "My Resume Site",
+    title: "Restaurant Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A simple restaurant page made with HTML, CSS and JavaScript by following The Odin Project Javascript Path.",
+    url: "https://github.com/godwin-17/odin-restaurant",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Tic Tac Toe",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A tic tac toe page made with HTML, CSS and JavaScript by following The Odin Project Javascript Path.",
+    url: "https://github.com/godwin-17/odin-tic-tac-toe",
   },
 ];
 
